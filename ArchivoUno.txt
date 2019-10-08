@@ -1,1 +1,2 @@
 hola soy stiven
+git es un sotfware que nos permite controlar versiones atraves de repocitorios.
